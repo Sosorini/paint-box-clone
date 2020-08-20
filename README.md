@@ -1,5 +1,5 @@
 # SCSS Masterclass
-# [https://paint-box.com/](https://paint-box.com/)
+# CLONE CODING - https://paint-box.com/
 
 ### Keywords & Functions
 
